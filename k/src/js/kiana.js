@@ -9,23 +9,23 @@ $.fn.KianaInit = function (data) {
 
     //资源配置
     //图片
-    var kianaImg1 = "https://d.sirin.xyz/k/src/img/kiana-1.png";
-    var kianaImg2 = "https://d.sirin.xyz/k/src/img/kiana-2.png";
-    var kianaImg3 = "https://d.sirin.xyz/k/src/img/kiana-3.gif";
-    var kianaImg4 = "https://d.sirin.xyz/k/src/img/kiana-4.png";
+    var kianaImg1 = "https://d.sirin.top/k/src/img/kiana-1.png";
+    var kianaImg2 = "https://d.sirin.top/k/src/img/kiana-2.png";
+    var kianaImg3 = "https://d.sirin.top/k/src/img/kiana-3.gif";
+    var kianaImg4 = "https://d.sirin.top/k/src/img/kiana-4.png";
     //MP3
-    var dragMp3 = "https://d.sirin.xyz/k/src/mp3/kiana_drag.mp3";
-    var kiana_1Mp3 = "https://d.sirin.xyz/k/src/mp3/kiana_1.mp3";
-    var kiana_2Mp3 = "https://d.sirin.xyz/k/src/mp3/kiana_2.mp3";
-    var kiana_3Mp3 = "https://d.sirin.xyz/k/src/mp3/kiana_3.mp3";
-    var kiana_4Mp3 = "https://d.sirin.xyz/k/src/mp3/kiana_4.mp3";
-    var kiana_5Mp3 = "https://d.sirin.xyz/k/src/mp3/kiana_5.mp3";
-    var kiana_6Mp3 = "https://d.sirin.xyz/k/src/mp3/kiana_6.mp3";
-    var kiana_7Mp3 = "https://d.sirin.xyz/k/src/mp3/kiana_7.mp3";
-    var kiana_8Mp3 = "https://d.sirin.xyz/k/src/mp3/kiana_8.mp3";
-    var kiana_9Mp3 = "https://d.sirin.xyz/k/src/mp3/kiana_9.mp3";
-    var kiana_10Mp3 = "https://d.sirin.xyz/k/src/mp3/kiana_10.mp3";
-    var kiana_11Mp3 = "https://d.sirin.xyz/k/src/mp3/kiana_11.mp3";
+    var dragMp3 = "https://d.sirin.top/k/src/mp3/kiana_drag.mp3";
+    var kiana_1Mp3 = "https://d.sirin.top/k/src/mp3/kiana_1.mp3";
+    var kiana_2Mp3 = "https://d.sirin.top/k/src/mp3/kiana_2.mp3";
+    var kiana_3Mp3 = "https://d.sirin.top/k/src/mp3/kiana_3.mp3";
+    var kiana_4Mp3 = "https://d.sirin.top/k/src/mp3/kiana_4.mp3";
+    var kiana_5Mp3 = "https://d.sirin.top/k/src/mp3/kiana_5.mp3";
+    var kiana_6Mp3 = "https://d.sirin.top/k/src/mp3/kiana_6.mp3";
+    var kiana_7Mp3 = "https://d.sirin.top/k/src/mp3/kiana_7.mp3";
+    var kiana_8Mp3 = "https://d.sirin.top/k/src/mp3/kiana_8.mp3";
+    var kiana_9Mp3 = "https://d.sirin.top/k/src/mp3/kiana_9.mp3";
+    var kiana_10Mp3 = "https://d.sirin.top/k/src/mp3/kiana_10.mp3";
+    var kiana_11Mp3 = "https://d.sirin.top/k/src/mp3/kiana_11.mp3";
     //语言
     var lan =
         [
