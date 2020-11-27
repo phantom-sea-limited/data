@@ -4,8 +4,8 @@
 ```javascript
 <div id="div1"></div>
    
-<script src="https://d.sirin.xyz/k/src/js/jquery.min.js"></script>
-<script src="https://d.sirin.xyz/k/src/js/kiana.js"></script>
+<script src="https://d.sirin.top/k/src/js/jquery.min.js"></script>
+<script src="https://d.sirin.top/k/src/js/kiana.js"></script>
 <script>
    $("#div1").KianaInit({
          randomPosition:true
